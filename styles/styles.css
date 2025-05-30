@@ -44,6 +44,8 @@ html {
     background-color: #0b0218;
     padding: 50px;
     overflow: hidden;
+    border-style: solid;
+    border-color: #3a0a88;
 }
 
 .h1-primeiro {
